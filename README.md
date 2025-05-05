@@ -29,7 +29,7 @@ Minha motivação vai além do código — acredito no poder da colaboração, d
 
 ### [ExpressoUnix](https://github.com/JohnWilliam24dev/ExpressoUnix)
 Gerenciador de empresas rodoviárias com automação via Web Scraping.  
-**Tecnologias:** Java, Spring Boot, JavaScript  
+**Tecnologias:** Java, Spring Boot, TypeScript  
 
 
 ### [Teart](https://github.com/JohnWilliam24dev/Teart)
