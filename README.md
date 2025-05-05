@@ -49,14 +49,7 @@ SENAI Bahia — jan. 2024 a dez. 2025
 
 ---
 
-## 📚 Atividades Complementares
 
-- Hackaton – SENAI (2024)  
-- Bahia Connect – SENAI Salvador (2025)  
-- Curso de Python – Curso em Vídeo (2021)  
-- Curso de JavaScript (patrocinado pela Google) – Curso em Vídeo (2022)
-
----
 
 ## 🐧 Por que Linux?
 
