@@ -1,8 +1,8 @@
-# João Guilherme Saturnino
+# JohnWilliam24dev
 
 🎯 Desenvolvedor Backend
 🐧 Apaixonado por Linux e Open Source  
-📍 Bahia, Brasil  
+📍 Brasil  
 📧 johnwillian24.dev@gmail.com  
 🔗 [GitHub](https://github.com/JohnWilliam24dev)
 
@@ -27,16 +27,16 @@ Minha motivação vai além do código — acredito no poder da colaboração, d
 
 ## 💻 Projetos em Destaque
 
-### [ExpressoUnix](https://github.com/JohnWilliam24dev)
+### [ExpressoUnix](https://github.com/JohnWilliam24dev/ExpressoUnix)
 Gerenciador de empresas rodoviárias com automação via Web Scraping.  
 **Tecnologias:** Java, Spring Boot, JavaScript  
 
 
-### Teart
+### [Teart](https://github.com/JohnWilliam24dev/Teart)
 Marketplace web voltado ao nicho de ateliês e costura criativa.  
 **Tecnologias:** Java, Spring Boot
 
-### Vai pra Onde
+### [Vai pra Onde](https://github.com/PedroFPer/Vai_pra_onde)
 Aplicativo mobile para divulgação de eventos baseado na geolocalização do usuário.  
 **Tecnologias:** Java, Android Studio
 
